@@ -10,7 +10,7 @@ Meu objetivo é contribuir com projetos de impacto positivo e aprender constante
  - JavaScript
  - Java
  - Desenvolvimento Web
-Contato
-Email: andrephilleandro@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/andre-phillipe-leandro-a61ba8255/
+ - Contato
+## Email: andrephilleandro@gmail.com
+## LinkedIn: https://www.linkedin.com/in/andre-phillipe-leandro-a61ba8255/
