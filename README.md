@@ -12,4 +12,5 @@ Meu objetivo é contribuir com projetos de impacto positivo e aprender constante
  - Desenvolvimento Web
 Contato
 Email: andrephilleandro@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/andre-phillipe-leandro-a61ba8255/
